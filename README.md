@@ -33,4 +33,4 @@ This project may utilize open-source libraries, pre-trained models, or datasets.
 
 For inquiries or contributions related to this project, please feel free to reach out.
 
-Thank you for exploring our CycleGAN project!
+Thank you for exploring this project!
